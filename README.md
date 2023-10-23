@@ -13,6 +13,7 @@
 
 #### Languages
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
+![](https://img.shields.io/badge/-Svelte-61DAFB?style=flat&logo=svelte&logoColor=3c3c3c)
 ![](https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Node-darkgreen?logo=node.js&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Django-red?logo=Django&logoColor=white&style=flat)
